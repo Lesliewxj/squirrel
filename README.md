@@ -14,7 +14,7 @@ spring+spring mvc+mybatis+bootstrap+jquery
 运行地址：http://localhost:8080/goods/homeGoods
 
 后台地址：http://localhost:8080/admin/
-登录账号:13520109202 111111
+登录账号:13520109202 111111 （也可以根据需要在数据库中添加）
 
 注意事项：
 
