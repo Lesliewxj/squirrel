@@ -5,9 +5,9 @@
 
 运行环境
 
-jdk8+tomcat7+mysql+IntelliJ IDEA
+jdk8 + tomcat7 + mysql5.6 + IntelliJ IDEA（Eclipse也可以）
 
-项目技术(必填)
+项目技术
 
 spring+spring mvc+mybatis+bootstrap+jquery
 
