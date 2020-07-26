@@ -11,7 +11,7 @@ jdk8 + tomcat7 + mysql5.6 + IntelliJ IDEA（Eclipse也可以）
 
 spring+spring mvc+mybatis+bootstrap+jquery
 
-运行地址：http://localhost:8080/goods/homeGoods
+运行地址（前台）：http://localhost:8080/goods/homeGoods
 
 后台地址：http://localhost:8080/admin/
 登录账号:13520109202 111111 （可以自己更改，也可以根据需要在数据库中添加）
