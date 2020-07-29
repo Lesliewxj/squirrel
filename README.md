@@ -20,7 +20,7 @@ spring+spring mvc+mybatis+bootstrap+jquery
 
 1.钱包没钱导致不能在线购买  请在数据中加入数据 支付功能只是简单模拟了 介意的请别下载！！！ 
 
-2.图片上传后，访问路径需要修改
+2.图片上传后，访问路径需要修改,不然无法访问。
 
 原项目地址：http://www.zuidaima.com/share/4810237392309248.htm
 
