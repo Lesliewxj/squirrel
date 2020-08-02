@@ -5,7 +5,7 @@ Based on SSM technology, the simple campus second-hand market, the main function
 
 Operating environment
 
-jdk8 + tomcat7 + mysql5.6 + IntelliJ IDEA (Eclipse also works)
+jdk8 + tomcat7 + mysql5.6 + IntelliJ IDEA (Eclipse also works fit)
 
 Project technology
 
