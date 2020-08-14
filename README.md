@@ -11,7 +11,7 @@ Project technology
 
 spring+spring mvc+mybatis+bootstrap+jquery
 
-Operating address (front desk end): http://localhost:8080/goods/homeGoods
+Operating address (front end): http://localhost:8080/goods/homeGoods
 
 Backend address: http://localhost:8080/admin/ account: 13520109202 111111 (You can change it yourself, or add it to the database as needed)
 
