@@ -9,9 +9,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * Created by lenovo on 2017/5/9.
- */
+
 @Service("catelogService")
 public class CatelogServiceImpl implements CatelogService {
 
