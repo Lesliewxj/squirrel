@@ -39,7 +39,7 @@ import com.ldu.service.PurseService;
 import com.ldu.service.UserService;
 import com.ldu.util.DateUtil;
 
-
+//商品控制器
 @Controller
 @RequestMapping(value = "/goods")
 public class GoodsController {
