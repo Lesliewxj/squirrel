@@ -33,6 +33,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+
+//用户控制器，管理用户的所有操作和属性
 @Controller
 @RequestMapping(value = "/user")
 public class UserController {
