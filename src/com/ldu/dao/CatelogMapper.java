@@ -6,6 +6,7 @@ import com.ldu.pojo.Catelog;
 
 import java.util.List;
 
+//分类的属性
 public interface CatelogMapper {
     int deleteByPrimaryKey(Integer id);
 
