@@ -21,6 +21,7 @@ import com.ldu.service.GoodsService;
 import com.ldu.service.OrdersService;
 import com.ldu.service.PurseService;
 
+//订单控制器
 @Controller
 @RequestMapping(value="/orders")
 public class OrdersController {
