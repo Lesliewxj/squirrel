@@ -6,6 +6,7 @@ import org.apache.ibatis.annotations.Param;
 
 import com.ldu.pojo.Purse;
 
+//钱包的属性
 public interface PurseMapper {
 	
 	public void updatePurseByuserId(Integer userId, Float balance);
