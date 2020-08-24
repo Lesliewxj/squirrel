@@ -2,6 +2,7 @@ package com.ldu.dao;
 
 import com.ldu.pojo.Reply;
 
+//回复内容的属性
 public interface ReplyMapper {
     int deleteByPrimaryKey(Integer id);
 
