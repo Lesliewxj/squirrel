@@ -1,7 +1,7 @@
 package com.ldu.pojo;
 /**
- * 商品拓展 联合查询
- * @author lyq
+ * 商品拓展 联合查询评论
+ * 
  *
  */
 import java.util.List;
