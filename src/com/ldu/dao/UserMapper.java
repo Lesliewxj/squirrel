@@ -7,6 +7,7 @@ import com.ldu.pojo.User;
 import java.util.List;
 
 public interface UserMapper{
+	//定义用户的查询属性
     int deleteByPrimaryKey(Integer id);
 
     int insert(User record);
