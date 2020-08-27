@@ -5,7 +5,7 @@ import java.util.List;
 import com.ldu.pojo.Focus;
 
 public interface FocusMapper {
-	
+	//用户关注的属性
 	 /**
      * 查询登录用户的所有关注商品
      * @param user_id
