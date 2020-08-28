@@ -3,6 +3,7 @@ package com.ldu.dao;
 import com.ldu.pojo.Comments;
 
 public interface CommentsMapper {
+    //评论的事务
     int deleteByPrimaryKey(Integer id);
 
     int insert(Comments record);
