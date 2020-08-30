@@ -14,7 +14,7 @@ public interface GoodsMapper {
      * @param id
      * @return
      */
-    int deleteByPrimaryKey(Integer id);//更新
+    int deleteByPrimaryKey(Integer id);//通过id更新
     
     int deleteByPrimaryKeys(Integer id);//删除
 
