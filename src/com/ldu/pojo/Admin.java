@@ -1,9 +1,5 @@
 package com.ldu.pojo;
-/**
- * 管理员
- * @author lyq
- *
- */
+
 public class Admin {
 	private Integer id;//id
 	private String userName;//用户名
