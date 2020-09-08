@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.ldu.pojo.Notice;
 import com.ldu.pojo.NoticeExtend;
-
+//通知
 public interface NoticeService {
 
 	List<Notice> getNoticeList();
